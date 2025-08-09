@@ -125,7 +125,7 @@ Fill in the application creation form with the following details:
 **Source:**
 - **Repository URL:** `https://github.com/k4kamil/ArgoCD.git`
 - **Revision:** `HEAD`
-- **Path:** `manifests`
+- **Path:** `Practical Demonstration /manifests`
 
 **Destination:**
 - **Cluster URL:** `https://kubernetes.default.svc`
